@@ -21,7 +21,8 @@
 
 ### 📊 GitHub Stats 
 ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiofppo&show_icons=true&theme=dark&count_private=true&hide_rank=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiofppo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiofppo&layout=compact&theme=dark&cache_seconds=60)](https://github.com/sergiofppo/github-readme-stats)
+
 
 ---
 
