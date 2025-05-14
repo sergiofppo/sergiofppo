@@ -1,9 +1,9 @@
 <h1 align="center">Olá! Eu sou o Sérgio Filippo 👋</h1>
 <p align="center"> Sou estudante de Ciência da Computação e Desenvolvedor Full-Stack </p>
 <p align="center">
-   <a href="https://github.com/sergiofppo"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-   <a href="https://www.linkedin.com/in/sergiofppo"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="https://www.instagram.com/sergiofppo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+   <a href="https://github.com/sergiofppo"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/></a>
+   <a href="https://www.linkedin.com/in/sergiofppo"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+   <a href="https://www.instagram.com/sergiofppo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
 </p>
 
 ---
