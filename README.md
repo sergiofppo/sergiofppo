@@ -27,7 +27,7 @@
 ---
 
 ### 🧠 Em aprendizado 
-Atualmente estou estudando: **HTML5**, **CSS3**, **JavaScript**. Pretendo estudar o framework **React** em seguida e, posteriormente, **Java**.
+Atualmente estou estudando: **HTML5**, **CSS3**, **JavaScript**. Pretendo estudar **React** em seguida e, posteriormente, **Java**.
 
 
 ---
