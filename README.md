@@ -23,14 +23,9 @@
 ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiofppo&show_icons=true&theme=dark&count_private=true&hide_rank=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiofppo&layout=compact&theme=dark&cache_seconds=60)](https://github.com/sergiofppo/github-readme-stats)
 
-
----
-
-### 🧠 Em aprendizado 
-Atualmente estou estudando: **HTML5**, **CSS3**, **JavaScript**. Pretendo estudar **React** em seguida e, posteriormente, **Java**.
-
-
 ---
 
 ### ✉️ Contato
 Se quiser conversar ou colaborar em algo, sinta-se à vontade para me chamar pelo [LinkedIn](https://www.linkedin.com/in/sergiofppo)!
+
+adicione o icone do mysql
