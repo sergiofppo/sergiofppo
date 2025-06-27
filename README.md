@@ -32,5 +32,3 @@
 
 ### ✉️ Contato
 Se quiser conversar ou colaborar em algo, sinta-se à vontade para me chamar pelo [LinkedIn](https://www.linkedin.com/in/sergiofppo)!
-
-adicione o icone do mysql
